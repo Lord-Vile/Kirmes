@@ -40,5 +40,6 @@ public class Attraction {
         this.price = price;
     }
 
+
 }
 
